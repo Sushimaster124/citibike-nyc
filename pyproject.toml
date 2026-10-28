@@ -1,0 +1,21 @@
+[project]
+name = "citibike-nyc"
+version = "0.1.0"
+description = "Citi Bike NYC 2022: demand analysis, forecasting and network coverage"
+requires-python = ">=3.11"
+dependencies = [
+    "duckdb>=2.0.0",
+    "geopandas>=1.2.0",
+    "ipykernel>=7.4.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.2",
+    "nbconvert>=7.17.2",
+    "numpy>=2.4.6",
+    "pandas>=3.1.0",
+    "pyarrow>=26.0.0",
+    "requests>=2.34.2",
+    "scikit-learn>=1.9.1",
+    "seaborn>=0.13.2",
+    "shapely>=2.2.0",
+    "statsmodels>=0.15.0",
+]

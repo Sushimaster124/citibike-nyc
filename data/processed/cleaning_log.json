@@ -1,0 +1,17 @@
+{
+  "raw_trips": 29838166,
+  "negative_duration": 357,
+  "under_60s": 14,
+  "over_24h": 39772,
+  "missing_station": 31989,
+  "clean_trips": 29766034,
+  "duration_percentiles_s": {
+    "p1": 84.5,
+    "p5": 150.0,
+    "p25": 347.8,
+    "p50": 609.7,
+    "p75": 1079.9,
+    "p95": 2391.8,
+    "p99": 4970.7
+  }
+}
